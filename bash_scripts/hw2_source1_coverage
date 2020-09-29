@@ -1,0 +1,14 @@
+#!/bin/bash
+
+SOURCE1_IMAGES=hw2_pngs/*.png
+
+rm *.gcda pngout.png
+
+for f in $SOURCE1_IMAGES
+do
+   echo $f
+   ./pngtest $f
+done
+
+gcov -m *.c > hw2_afl_coverage.txt
+
