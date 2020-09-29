@@ -1,0 +1,55 @@
+#!/bin/bash
+# Generate coverage of only AFL tests
+
+# ! Generates only coverage for AFL tests
+# HW2_PNGS=hw2_pngs/*.png
+
+# rm *.gcda pngout.png
+
+# for f in $HW2_PNGS
+# do
+#    ./pngtest $f
+# done
+
+# gcov -m *.c > hw2_only_afl_coverage.txt
+# rm *.gcda pngout.png
+
+# echo "Completed!"
+
+
+IT_FILES=hw2_initial_files/
+HW2_FILES=hw2_pngs/
+
+IT_PNGS=hw2_initial_files/*.png
+HW2_PNGS=hw2_pngs/*.png
+
+PREV_COVERAGE=`grep -n 'Lines executed' hw2_previous_test_coverage.txt | tail -1`
+
+rm *.gcda pngout.png afl_new_test_coverage.txt
+
+# Iterate through every previous made test files
+for f in $IT_PNGS
+do
+   # Put file into AFL test files
+   cp -r $f $HW2_FILES
+
+   # Run gcov for all IT_PNGS
+   for x in $HW2_PNGS
+   do
+      ./pngtest $x
+   done
+   
+   # Compare "previous_test_coverage.txt" to "new_test_coverage.txt"
+   gcov -m *.c > afl_new_test_coverage.txt
+
+   new_coverage=`grep -n 'Lines executed' afl_new_test_coverage.txt | tail -1`
+   echo $f >> hw2_afl_coverage_diff.txt
+   echo "   $new_coverage" >> hw2_afl_coverage_diff.txt
+
+   # If the last line of grep for each is different, then echo the file and break;
+   # Else, remove file from HW2_FILES
+   rm "hw2_pngs/$(basename "${f}")"
+   rm *.gcda pngout.png afl_new_test_coverage.txt
+done
+
+echo "Completed!"

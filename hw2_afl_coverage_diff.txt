@@ -1,0 +1,92 @@
+hw2_initial_files/4389427591c18bf36e748172640862c3.png
+   65:Lines executed:27.70% of 11314
+hw2_initial_files/5b689479bd7e527c2385a40437272607.png
+   65:Lines executed:27.78% of 11314
+hw2_initial_files/64221ffc9050c92b8980326acc0e4194.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/71714b783e01aec455b5a4a760326ccc.png
+   65:Lines executed:28.87% of 11314
+hw2_initial_files/9bd8a9ed81c5a9190f74496197da7249.png
+   65:Lines executed:27.90% of 11314
+hw2_initial_files/VisualPng.png
+   65:Lines executed:29.19% of 11314
+hw2_initial_files/affc57dfffa5ec448a0795738d456018.png
+   65:Lines executed:31.12% of 11314
+hw2_initial_files/b583e48e218193e4c287f033931a6314.png
+   65:Lines executed:29.03% of 11314
+hw2_initial_files/b59d7a023a8dcd112da2eb859004199a.png
+   65:Lines executed:29.19% of 11314
+hw2_initial_files/basn0g04.png
+   65:Lines executed:27.88% of 11314
+hw2_initial_files/basn0g08.png
+   65:Lines executed:28.05% of 11314
+hw2_initial_files/basn4a08.png
+   65:Lines executed:27.82% of 11314
+hw2_initial_files/bgai4a16.png
+   65:Lines executed:27.82% of 11314
+hw2_initial_files/bgan6a08.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/c-c53911b0385c34a8204c30fdc14ea5cc.png
+   65:Lines executed:29.19% of 11314
+hw2_initial_files/c-m1-6e3914f26bcc8f9d004ffeac71656c01.png
+   65:Lines executed:29.17% of 11314
+hw2_initial_files/c-m2-71915ab0b1cc7350091ef7073a312d16.png
+   65:Lines executed:29.49% of 11314
+hw2_initial_files/c-m2-fcac2d6a6a739e8ceb946ac99200d9f1.png
+   65:Lines executed:29.57% of 11314
+hw2_initial_files/c-m4-6bfb149151f58d124d6fa76eaad75520.png
+   65:Lines executed:28.96% of 11314
+hw2_initial_files/c-m8-1f97f040d0b6b26faeb0a1a7f1499590.png
+   65:Lines executed:27.76% of 11314
+hw2_initial_files/c-m8-a46ce91d8975a017917156b8824f936e.png
+   65:Lines executed:30.63% of 11314
+hw2_initial_files/convert.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/ctgn0g04.png
+   65:Lines executed:28.78% of 11314
+hw2_initial_files/f427b6bee1acd1fea3ec953bc556a18a.png
+   65:Lines executed:27.89% of 11314
+hw2_initial_files/gray-1-linear.png
+   65:Lines executed:30.29% of 11314
+hw2_initial_files/gray-2-tRNS.png
+   65:Lines executed:29.31% of 11314
+hw2_initial_files/gray-4-1.8.png
+   65:Lines executed:30.27% of 11314
+hw2_initial_files/huge_tEXt_chunk.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/m1-04c2707d63235dd5ab2c66ee98a36521.png
+   65:Lines executed:27.78% of 11314
+hw2_initial_files/m1-71915ab0b1cc7350091ef7073a312d16.png
+   65:Lines executed:27.70% of 11314
+hw2_initial_files/m1-c5a372c145ce25ce712959cd3b6df35e.png
+   65:Lines executed:29.39% of 11314
+hw2_initial_files/m2-559dcf17d281e285b7f09f943b9706de.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/m2-a46ce91d8975a017917156b8824f936e.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/m3-593d4b1a0b5d13b539c6c098dc5797ca.png
+   65:Lines executed:31.57% of 11314
+hw2_initial_files/m4-96b70653ba3f8a83b7cfd48749bed8b1.png
+   65:Lines executed:29.23% of 11314
+hw2_initial_files/m7-1f97f040d0b6b26faeb0a1a7f1499590.png
+   65:Lines executed:27.69% of 11314
+hw2_initial_files/palette-1-linear.png
+   65:Lines executed:31.04% of 11314
+hw2_initial_files/palette-4-sRGB.png
+   65:Lines executed:30.91% of 11314
+hw2_initial_files/palette-4.png
+   65:Lines executed:29.53% of 11314
+hw2_initial_files/palette-8-sRGB.png
+   65:Lines executed:30.88% of 11314
+hw2_initial_files/palette-8-tRNS.png
+   65:Lines executed:30.07% of 11314
+hw2_initial_files/pngtest.png
+   65:Lines executed:29.95% of 11314
+hw2_initial_files/rgb-8-sRGB.png
+   65:Lines executed:29.95% of 11314
+hw2_initial_files/rgb-8-tRNS.png
+   65:Lines executed:29.21% of 11314
+hw2_initial_files/s07i3p02.png
+   65:Lines executed:29.20% of 11314
+hw2_initial_files/s33n3p04.png
+   65:Lines executed:28.80% of 11314
